@@ -1,2 +1,0 @@
-# ignityourself
-Bootstrap responsive website
